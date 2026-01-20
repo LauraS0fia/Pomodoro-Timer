@@ -31,9 +31,6 @@ The Pomodoro Technique is a time management method that uses focused work sessio
 - CSS  
 - JavaScript  
 
-### Desktop
-- Electron  
-
 ### Backend
 - Python  
 - FastAPI  
